@@ -1,0 +1,12 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>db74250e-9ce9-4f3c-9981-e7b1f9c4fb9b</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.1</RuntimeVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="HelpingHandsSQL.html" />
+  </ItemGroup>
+</Project>
